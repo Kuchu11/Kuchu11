@@ -7,7 +7,7 @@
     </td>
     <td align="left" style="vertical-align: middle; padding-left: 20px;">
       <h1>Wesley Amorim 👋</h1>
-      <p>🚀 Estudante de <b>ADS na Unifor</b> (2º Semestre).</p>
+      <p>🚀 Estudante de <b>Analise e Desenvolvimento de Sistemas na Unifor</b> (2º Semestre).</p>
       <p>💻 No momento meu foco é <b>JavaScript</b>, mas sigo explorando novas linguagens conforme a jornada pede.</p>
       <p>🌊 Começando a desenvolver meus primeiros projetos práticos agora.</p>
       <br>
