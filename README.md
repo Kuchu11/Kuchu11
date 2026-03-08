@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Wesley Amorim! 👋
 
-<!--
-**Kuchu11/Kuchu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Sobre mim
+- 🚀 Cursando **Análise e Desenvolvimento de Sistemas** na **Unifor** (2º Semestre).
+- 💻 Atualmente focado em dominar o ecossistema **JavaScript**.
+- 🛠️ Buscando aprender novas tecnologias e construir projetos práticos.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas do GitHub
+![Estatísticas do Wesley](https://github-readme-stats.vercel.app/api?username=Kuchu11&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+---
+
+📫 **Como me encontrar:**
+[Link do seu LinkedIn ou E-mail aqui]
